@@ -62,8 +62,8 @@ melalui XAMPP.
 ![Screenshot 2023-12-04 201223](https://github.com/tiaraputriiiiii/Lab9Web/assets/115775237/77e7ea7c-744b-476f-bade-d451784494da)
 
 5. **Buat file baru dengan nama about.php**
-    ```
-   <!DOCTYPE html>
+   ```
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -91,5 +91,6 @@ melalui XAMPP.
 </body>
 
 </html>
-    ```
+```
+
 ![Screenshot 2023-12-04 201230](https://github.com/tiaraputriiiiii/Lab9Web/assets/115775237/00d723f2-9c13-464f-9c6d-94fc5f6ee560)
