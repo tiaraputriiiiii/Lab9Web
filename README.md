@@ -45,7 +45,8 @@ melalui XAMPP.
 ![Screenshot 2023-12-04 201542](https://github.com/tiaraputriiiiii/Lab9Web/assets/115775237/2dd7eb82-83b9-40fb-a8b9-d7d2b278ef5b)
 
 4. **Buat file baru dengan nama home.php**
-    ```html 
+    ```
+    html 
         <?php require('header.php'); ?>
 
         <div class="content">
