@@ -45,7 +45,7 @@ melalui XAMPP.
 ![Screenshot 2023-12-04 201542](https://github.com/tiaraputriiiiii/Lab9Web/assets/115775237/2dd7eb82-83b9-40fb-a8b9-d7d2b278ef5b)
 
 4. **Buat file baru dengan nama home.php**
-    ```
+```
     html 
         <?php require('header.php'); ?>
 
@@ -58,11 +58,12 @@ melalui XAMPP.
         </div>
 
         <?php require('footer.php'); ?
-    ```
+```
 ![Screenshot 2023-12-04 201223](https://github.com/tiaraputriiiiii/Lab9Web/assets/115775237/77e7ea7c-744b-476f-bade-d451784494da)
 
 5. **Buat file baru dengan nama about.php**
-   ```
+
+```
 <!DOCTYPE html>
 <html lang="en">
 
